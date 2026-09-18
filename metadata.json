@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow: Hospital Management & Planning",
+  "description": "An interactive resource planning dashboard and secure dual-portal system for patients and medical staff, featuring a visual database audit log and integrated intelligent planning assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
