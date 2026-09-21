@@ -100,7 +100,7 @@ A Hospital Management System (HMS) is a software application designed to manage 
 | 💾 Storage    | 10 GB Free Space               | 20 GB+ SSD              |
 | 🖼️ Display   | 1366 × 768                     | Full HD 1920 × 1080     |
 | 🌐 Network    | Internet Connection            | Stable Broadband/Wi-Fi  |
-
+<br /><br />
 🛠️ Software Requirements
 | 🧩 Software         | 📋 Requirement                           |
 | ------------------- | ---------------------------------------- |
@@ -112,7 +112,7 @@ A Hospital Management System (HMS) is a software application designed to manage 
 | 🌐 Web Browser      | Google Chrome / Microsoft Edge / Firefox |
 | 🔀 Version Control  | Git & GitHub                             |
 | 🖥️ Server          | Node.js / XAMPP                          |
-
+<br /><br />
 ⚙️ Functional Requirements
 | 🔢  | 🏥 Requirement            | 📝 Description                                        |
 | --- | ------------------------- | ----------------------------------------------------- |
@@ -126,3 +126,4 @@ A Hospital Management System (HMS) is a software application designed to manage 
 | 8️⃣ | 🛏️ Bed Management        | Track bed availability and allocation                 |
 | 9️⃣ | 📊 Reports & Analytics    | Generate hospital-related reports                     |
 | 🔟  | 👑 Admin Panel            | Manage users, doctors, patients, and system data      |
+<br /><br />
