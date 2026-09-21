@@ -91,40 +91,38 @@ A Hospital Management System (HMS) is a software application designed to manage 
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/999.jpg title="Ai " /></td>
 </tr>
 </table>
-🏥 System Requirements – Hospital Management System
+🏥 System Requirements
+
+🤖 Development Platform
+| 🔧 Component               | 📋 Requirement                 |
+| -------------------------- | ------------------------------ |
+| 🤖 AI Development Platform | Google AI Studio               |
+| 🧠 AI Model                | Google Gemini API              |
+| 🎨 Frontend                | HTML5, CSS3, JavaScript        |
+| ⚙️ Backend                 | Node.js / Express.js           |
+| 🗄️ Database               | MongoDB / Firebase             |
+| 👨‍💻 Code Editor          | Visual Studio Code             |
+| 🌐 Browser                 | Google Chrome / Microsoft Edge |
+| 🔀 Version Control         | Git & GitHub                   |
+| 🔑 API                     | Gemini API                     |
+| 💻 Operating System        | Windows 10/11, Linux, or macOS |
 
 💻 Hardware Requirements
-| 🔧 Component  | 📌 Minimum Requirement         | ⭐ Recommended           |
-| ------------- | ------------------------------ | ----------------------- |
-| 🖥️ Processor | Intel Core i3 / AMD Equivalent | Intel Core i5 or higher |
-| 🧠 RAM        | 4 GB                           | 8 GB or higher          |
-| 💾 Storage    | 10 GB Free Space               | 20 GB+ SSD              |
-| 🖼️ Display   | 1366 × 768                     | Full HD 1920 × 1080     |
-| 🌐 Network    | Internet Connection            | Stable Broadband/Wi-Fi  |
+| 🖥️ Component | 📌 Requirement                 |
+| ------------- | ------------------------------ |
+| ⚡ Processor   | Intel Core i3 or higher        |
+| 🧠 RAM        | Minimum 4 GB, 8 GB Recommended |
+| 💾 Storage    | Minimum 10 GB Free Space       |
+| 🌐 Internet   | Stable Internet Connection     |
+| 🖥️ Display   | 1366 × 768 or higher           |
 
-🛠️ Software Requirements
-| 🧩 Software         | 📋 Requirement                           |
-| ------------------- | ---------------------------------------- |
-| 🪟 Operating System | Windows 10/11, Linux, or macOS           |
-| 🎨 Frontend         | HTML5, CSS3, JavaScript                  |
-| ⚙️ Backend          | Node.js / Java / PHP                     |
-| 🗄️ Database        | MySQL / MongoDB                          |
-| 👨‍💻 Code Editor   | Visual Studio Code                       |
-| 🌐 Web Browser      | Google Chrome / Microsoft Edge / Firefox |
-| 🔀 Version Control  | Git & GitHub                             |
-| 🖥️ Server          | Node.js / XAMPP                          |
-
-⚙️ Functional Requirements
-| 🔢  | 🏥 Requirement            | 📝 Description                                        |
-| --- | ------------------------- | ----------------------------------------------------- |
-| 1️⃣ | 🔐 User Authentication    | Secure login and registration                         |
-| 2️⃣ | 👤 Patient Management     | Add, update, view, and manage patient records         |
-| 3️⃣ | 👨‍⚕️ Doctor Management   | Manage doctor profiles, departments, and availability |
-| 4️⃣ | 📅 Appointment Management | Schedule, update, and cancel appointments             |
-| 5️⃣ | 💰 Billing Management     | Generate and manage patient bills                     |
-| 6️⃣ | 💊 Pharmacy Management    | Manage medicines and inventory                        |
-| 7️⃣ | 🧪 Laboratory Management  | Manage tests and medical reports                      |
-| 8️⃣ | 🛏️ Bed Management        | Track bed availability and allocation                 |
-| 9️⃣ | 📊 Reports & Analytics    | Generate hospital-related reports                     |
-| 🔟  | 👑 Admin Panel            | Manage users, doctors, patients, and system data      |
+✨ AI Features
+| 🤖 Feature                | 📝 Description                                         |
+| ------------------------- | ------------------------------------------------------ |
+| 💬 AI Assistant           | Helps users with hospital-related queries              |
+| 🩺 Symptom Assistance     | Provides general information based on entered symptoms |
+| 📅 Appointment Assistance | Helps users navigate appointment-related services      |
+| 📋 Medical Information    | Assists in understanding general medical information   |
+| 🔍 Smart Search           | AI-powered search and information retrieval            |
+| 🧠 Gemini Integration     | Uses Google Gemini API for AI-powered functionality    |
 
