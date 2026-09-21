@@ -122,7 +122,8 @@ A Hospital Management System (HMS) is a software application designed to manage 
 
 📁 Project Structure
 Hospital-Management-System/
-│
+│<table width="100%">
+    <tr>
 ├── 📁 frontend/
 │   ├── 📁 assets/
 │   ├── 📁 css/
@@ -143,6 +144,9 @@ Hospital-Management-System/
 ├── 📄 .gitignore
 ├── 📄 package.json
 └── 📄 README.md
+</tr>
+</table> 
+
 🏥 System Requirements
 
 🤖 Development Platform
