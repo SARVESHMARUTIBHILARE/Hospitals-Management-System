@@ -125,21 +125,20 @@ Hospital-Management-System/
 <table width="100%">
     <tr>
 ├── 📁 frontend/<br> </br>
-│   ├── 📁 assets/<br> </br>
-│   ├── 📁 css/<br> </br>
-│   ├── 📁 js/<br> </br>
-│   ├── 📄 index.html<br> </br>
-│   └── 📄 dashboard.html<br> </br>
-│
+  ├── 📁 assets/<br> </br>
+├── 📁 css/<br> </br>
+  ├── 📁 js/<br> </br>
+   ├── 📄 index.html<br> </br>
+  └── 📄 dashboard.html<br> </br>
 ├── 📁 backend/<br> </br>
-│   ├── 📁 controllers/<br> </br>
-│   ├── 📁 models/<br> </br>
-│   ├── 📁 routes/<br> </br>
-│   ├── 📁 middleware/<br> </br>
-│   └── 📄 server.js<br> </br>
-│
+   ├── 📁 controllers/<br> </br>
+   ├── 📁 models/<br> </br>
+  ├── 📁 routes/<br> </br>
+  ├── 📁 middleware/<br> </br>
+  └── 📄 server.js<br> </br>
+
 ├── 📁 config/<br> </br>
-│
+
 ├── 📄 .env<br> </br>
 ├── 📄 .gitignore<br> </br>
 ├── 📄 package.json<br> </br>
