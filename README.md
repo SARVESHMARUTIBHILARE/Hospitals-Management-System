@@ -3,6 +3,11 @@ A Hospital Management System (HMS) is a software application designed to manage 
 
 <div align="center">
 <a href="https://Careflow.io"><img src=logo/0000.png alt="HMS Careflow Logo" width="300"/></a>
+<p align="center"> <img src="https://img.shields.io/badge/Hospital%20Management%20System-Healthcare-2ea44f?style=for-the-badge" alt="Hospital Management System"> </p>
+<p align="center"> <b>🏥 A modern, smart and user-friendly Hospital Management System</b> <br> Manage patients, doctors, appointments, medical records, billing and hospital operations from one centralized platform. </p>
+
+<p align="center">
+    
     <a href="https://trendshift.io/repositories/2264" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2264" alt="A screenshot of Careflow hms my work dashboard showing a few boxes with large metrics represnting todos complete, goals contributing to, scheduled todos. Also shows a day calendar with one task on it and a list of tasks grouped by Overdue, Due this week and Due Later" style="width: 250px; height: 55px;" width="250" height="55"/></a>
     
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://gemini.google.com/)
