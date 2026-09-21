@@ -121,6 +121,8 @@ A Hospital Management System (HMS) is a software application designed to manage 
 </table>
 🏥 System Requirements
 
+
+
 🤖 Development Platform
 | 🔧 Component               | 📋 Requirement                 |
 | -------------------------- | ------------------------------ |
