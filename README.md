@@ -2,7 +2,7 @@
 A Hospital Management System (HMS) is a software application designed to manage and automate the daily operations of a hospital. It helps doctors, nurses, receptionists, administrators, and patients access and manage healthcare-related information efficiently.
 
 <div align="center">
-<a href="https://leantime.io"><img src=logo/0000.png alt="Leantime Logo" width="300"/></a>
+<a href="https://Careflow.io"><img src=logo/0000.png alt="HMS Careflow Logo" width="300"/></a>
 
 
 
