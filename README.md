@@ -5,4 +5,5 @@ A Hospital Management System (HMS) is a software application designed to manage 
 
 <table width="100%">
     <tr>
-        <td width="33%"><img alt="Screenshot of Leantime's my work dashboard but with a dark color scheme. All colors are darkened or reverted"src=images/11.jpg title="My Work" /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
