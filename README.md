@@ -8,3 +8,19 @@ A Hospital Management System (HMS) is a software application designed to manage 
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/12.jpg title="Ai " /></td>
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/22.jpg title="Ai " /></td>
+</tr>
+ <tr>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/12.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/22.jpg title="Ai " /></td>
+</tr> 
+<tr>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/12.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/22.jpg title="Ai " /></td>
+</tr> 
+<tr>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/12.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/22.jpg title="Ai " /></td>
+</tr>
