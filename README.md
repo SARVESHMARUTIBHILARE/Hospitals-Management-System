@@ -7,4 +7,4 @@ A Hospital Management System (HMS) is a software application designed to manage 
     <tr>
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/12.jpg title="Ai " /></td>
         <td width="33%"><img alt="Screenshot of hospital management system "src=images/13.jpg title="Ai " /></td>
-    <td width="33%"><img alt="Screenshot of hospital management system "src=images/11.jpg title="Ai " /></td>
+        <td width="33%"><img alt="Screenshot of hospital management system "src=images/22.jpg title="Ai " /></td>
