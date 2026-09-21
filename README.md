@@ -1,6 +1,27 @@
 # Hospitals-Management-System
 A Hospital Management System (HMS) is a software application designed to manage and automate the daily operations of a hospital. It helps doctors, nurses, receptionists, administrators, and patients access and manage healthcare-related information efficiently.
 
+
+
+## 🚀 Features* ##
+| #  | Module                       | Features                                                                    |
+| -- | ---------------------------- | --------------------------------------------------------------------------- |
+| 1  | 👨‍⚕️ Doctor Management      | Doctor registration, profiles, specialization, availability, schedules      |
+| 2  | 👤 Patient Management        | Patient registration, profiles, medical history, treatment records          |
+| 3  | 📅 Appointment Management    | Book, reschedule, cancel, and manage appointments                           |
+| 4  | 🏥 Department Management     | Manage departments and assign doctors                                       |
+| 5  | 💊 Pharmacy Management       | Medicine inventory, prescriptions, sales, and stock alerts                  |
+| 6  | 🧪 Laboratory Management     | Test booking, sample tracking, and report management                        |
+| 7  | 🛏️ Bed & Ward Management    | Bed availability, ward allocation, admission, and discharge                 |
+| 8  | 💰 Billing & Payment         | Generate bills, consultation charges, medicine charges, and payment records |
+| 9  | 📋 Medical Records           | Diagnosis, prescriptions, reports, and patient treatment history            |
+| 10 | 🚑 Emergency Management      | Emergency registration, priority handling, and doctor assignment            |
+| 11 | 👩‍⚕️ Staff Management       | Staff profiles, roles, schedules, and attendance                            |
+| 12 | 🔐 Authentication & Security | Secure login, role-based access, and user permissions                       |
+| 13 | 📊 Admin Dashboard           | Patients, doctors, appointments, beds, revenue, and statistics              |
+| 14 | 🔔 Notifications             | Appointment reminders, report alerts, payment notifications                 |
+| 15 | 📈 Reports & Analytics       | Patient, appointment, billing, pharmacy, and laboratory reports             |
+
 ### 📸 Screenshots Section 1 ###
 
 <table width="100%">
