@@ -8,7 +8,7 @@ A Hospital Management System (HMS) is a software application designed to manage 
 
 <p align="center">
     
-    style="width: 250px; height: 55px;" width="250" height="55"/></a>
+    
     
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?logo=google&logoColor=white)](https://aistudio.google.com/)
