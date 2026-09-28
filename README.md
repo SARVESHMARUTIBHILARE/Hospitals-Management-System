@@ -182,11 +182,10 @@ Hospital-Management-System/
 | 🧠 Gemini Integration     | Uses Google Gemini API for AI-powered functionality    |
 
 👨‍💻 Developer
-
 Your Name:Bhilare Sarvesh Maruti Bhilare
-
 🔗 GitHub: https://github.com/SARVESHMARUTIBHILARE
-Team Members
+
+### Team Members
 Your Name:Taufeek Khan
 🔗 GitHub: https://github.com/SARVESHMARUTIBHILARE
 Members
