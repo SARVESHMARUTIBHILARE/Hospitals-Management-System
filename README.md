@@ -186,3 +186,7 @@ Hospital-Management-System/
 Your Name:Bhilare Sarvesh Maruti Bhilare
 
 🔗 GitHub: https://github.com/SARVESHMARUTIBHILARE
+Team Members
+Your Name:Taufeek Khan
+🔗 GitHub: https://github.com/SARVESHMARUTIBHILARE
+Members
